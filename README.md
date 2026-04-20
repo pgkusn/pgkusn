@@ -1,7 +1,6 @@
 <h1>Hi 👋, I'm Kenge</h1>
 <p>A passionate frontend developer from Taipei</p>
 <h2>🚀 Languages and Tools I Use</h2>
-<h2>🚀 Languages and Tools I Use</h2>
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,vue,css,html,tailwind,express,firebase,jest,nuxtjs,git,sass" />
